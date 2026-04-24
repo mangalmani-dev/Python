@@ -5,3 +5,5 @@ def chai(n):
 
 chai(5)
 chai("Mangalmani")
+chai_one = "masala chai"
+chai_two = "ginger chai"
